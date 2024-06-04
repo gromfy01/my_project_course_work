@@ -1,0 +1,7 @@
+dash==2.10.0
+plotly==5.14.1
+pandas==1.5.3
+numpy==1.24.0
+SQLAlchemy==1.4.41
+matplotlib==3.6.2
+psycopg2-binary==2.9.5
